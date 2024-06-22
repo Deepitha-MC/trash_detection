@@ -9,7 +9,6 @@
    ```bash
    python download.py
    ```
+3. Visualize the dataset: [playWithData](playWithData.ipynb)
 
-3. Run <strong><i>checkAnnotations.ipynb</i></strong>
-
-4. Run <strong><i>my_model.ipynb</i></strong>
+4. Training and Inference: [VGG_myModel](VGG_myModel.ipynb)
